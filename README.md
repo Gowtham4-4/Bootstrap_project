@@ -1,12 +1,30 @@
-# React + Vite
+# React + Vite + Bootstrap 5 Project 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple **multi-page website** built using **React, Vite, and Bootstrap 5**.  
+It demonstrates modern frontend practices including responsive layouts, navigation, carousels, cards, modals, and a sticky footer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+👉 [View Live Project](https://your-live-link-here.netlify.app)  
 
-## Expanding the ESLint configuration
+![Project Screenshot](./screenshot.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Features
+- Responsive **Navbar** with navigation links (Home, About, Contact)
+- **Carousel** showcasing project highlights
+- **Cards** with hover effects for interactivity
+- **Modal** in the About page with project details
+- **Contact form** with Bootstrap styling
+- **Sticky Footer** that stays at the bottom
+
+---
+
+## ⚙️ Tech Stack
+- **React 18** (UI Library)
+- **Vite** (Bundler & Dev Server)
+- **Bootstrap 5.3** (Styling & Components)
+
+---
