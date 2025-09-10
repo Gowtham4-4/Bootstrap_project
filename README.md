@@ -28,3 +28,22 @@ It demonstrates modern frontend practices including responsive layouts, navigati
 - **Bootstrap 5.3** (Styling & Components)
 
 ---
+Learning Outcomes
+
+Practiced React Router for page navigation
+
+Integrated Bootstrap components (Navbar, Carousel, Cards, Modal, Forms)
+
+Learned how to combine Vite + Bootstrap + React into a working project
+
+Gained experience in responsive design and sticky layouts
+
+🤖 Use of ChatGPT
+
+This project was developed with the assistance of ChatGPT for:
+
+Generating React and Bootstrap code snippets
+
+Reviewing and improving existing code
+
+Suggesting project structure and best practices
