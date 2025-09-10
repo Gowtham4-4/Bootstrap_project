@@ -6,7 +6,7 @@ It demonstrates modern frontend practices including responsive layouts, navigati
 ---
 
 ## 🌐 Live Demo
-👉 [View Live Project](https://your-live-link-here.netlify.app)  
+👉 [View Live Project](https://bootstrap763.netlify.app/)  
 
 ![Project Screenshot](./screenshot.png)
 
