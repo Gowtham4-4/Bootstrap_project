@@ -45,5 +45,3 @@ This project was developed with the assistance of ChatGPT for:
 Generating React and Bootstrap code snippets
 
 Reviewing and improving existing code
-
-Suggesting project structure and best practices
