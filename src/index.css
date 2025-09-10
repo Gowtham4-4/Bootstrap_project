@@ -1,0 +1,32 @@
+/* Card Hover Effect */
+.card {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Navbar Styling */
+.navbar {
+  background: transparent !important;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar-nav .nav-link {
+  color: #000 !important;
+  background: #fff;
+  margin: 0 5px;
+  border-radius: 6px;
+  padding: 8px 15px;
+  transition: all 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  background: #f8f9fa;
+  color: #007bff !important;
+}
